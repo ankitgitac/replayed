@@ -1,4 +1,5 @@
 "# replayed" 
+<br>Refrence for installing and testing ionic app: https://ionicframework.com/docs/v1/guide/installation.html
 <br><b>Installations:<b>
 <br>npm install -g cordova
 <br>npm install -g ionic
