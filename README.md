@@ -1,16 +1,16 @@
 "# replayed" 
-Installations:
-npm install -g cordova
-npm install -g ionic
-Configure Platforms:
-ionic cordova platform add ios
-ionic cordova platform add android
+<br><b>Installations:<b>
+<br>npm install -g cordova
+<br>npm install -g ionic
+<br><b>Configure Platforms:</b>
+<br>ionic cordova platform add ios
+<br>ionic cordova platform add android
 
-Test:
-Web : ionic serve
-iOS : 
-      ionic cordova build ios
-      ionic cordova emulate ios
-android : 
-    ionic cordova build android
-    ionic cordova emulate android 
+<br><b>Test:</b>
+<br><b>Web</b> : ionic serve
+<br><b>iOS</b> : 
+      <br>ionic cordova build ios
+      <br>ionic cordova emulate ios
+<br><b>android</b> : 
+    <br>ionic cordova build android
+    <br>ionic cordova emulate android 
