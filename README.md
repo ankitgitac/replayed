@@ -7,6 +7,8 @@
 <br>ionic cordova platform add ios
 <br>ionic cordova platform add android
 
+<br> Go to code directory
+
 <br><b>Test:</b>
 <br><b>Web</b> : ionic serve
 <br><b>iOS</b> : 
